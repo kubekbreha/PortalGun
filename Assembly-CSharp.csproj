@@ -53,6 +53,8 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraController.cs" />
      <Compile Include="Assets\Scripts\InterDimentionalTransport.cs" />
+     <Compile Include="Assets\Scripts\Portal.cs" />
+     <None Include="Assets\Shaders\Skybox.shader" />
      <None Include="Assets\Shaders\StandardStencilFilter.shader" />
      <None Include="Assets\Shaders\SpecularStencilFilter.shader" />
      <None Include="Assets\Shaders\StencilFilter.shader" />
