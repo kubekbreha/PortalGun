@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/ARKit.unity
+- path: Assets/Scenes/AndroidScene.unity
   isLoaded: 1
   isActive: 1

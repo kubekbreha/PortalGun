@@ -38,3 +38,6 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/UnityARKitPlugin/Examples/FaceTracking/FaceDirectionalLightEstimate.unity
     guid: 360fd35caee4f4e069485021a27c0b06
+  - enabled: 1
+    path: Assets/Scenes/AndroidScene.unity
+    guid: 5c960411433cd8343bf6b6bec57b5c35
